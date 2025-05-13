@@ -44,3 +44,5 @@ A FastAPI-based backend application integrated with Request Tracker (RT), Sentry
 ├── Dockerfile
 ├── docker-compose.yml
 └── README.md
+```
+### Installation
